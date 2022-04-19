@@ -1,4 +1,5 @@
 # Snapk
 Flatpak and snap install tool
 
-![sss](https://user-images.githubusercontent.com/87897405/164050459-7b14ba8e-e8b0-498d-a9d6-c926ce5829e9.png)
+
+![last](https://user-images.githubusercontent.com/87897405/164050808-e75a8577-c1da-47f9-be7d-6602ae6767be.png)
